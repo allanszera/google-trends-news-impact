@@ -35,7 +35,7 @@ O volume diário de dados é pequeno (baixo custo de storage)
 Não há necessidade de dados históricos prévios (mas pode ser estendido)
 
 2. Fluxograma do Processo
-![alt text](image.png)
+
 +-----------+      +---------+      +---------------+      +--------------------+      +-------------+
 |  Coleta   | ---> |  Raw    | ---> | Transformação | ---> | Data Warehouse     | ---> | Dashboard   |
 | (Trends & |      |  Data   |      | (ETL)         |      | (PostgreSQL/SQLite)|      | Visualização|
