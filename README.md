@@ -110,7 +110,7 @@ google-trends-news-impact/
 
 ## 📝 To-do (checklist)
 
-* [ X ] Montar estrutura de pastas e arquivos iniciais
+* [x] Montar estrutura de pastas e arquivos iniciais
 * [ ] Implementar extração dos dados do Trends
 * [ ] Implementar extração das notícias
 * [ ] Criar banco e modelo relacional
